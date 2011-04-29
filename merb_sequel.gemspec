@@ -44,8 +44,6 @@ Gem::Specification.new do |s|
      "lib/merb_sequel/rspec/sequel.rb",
      "lib/merb_sequel/version.rb",
      "spec/config/database.yml",
-     "spec/log/merb_test.log",
-     "spec/log/test.log",
      "spec/merb_sequel_session_spec.rb",
      "spec/merb_sequel_spec.rb",
      "spec/rspec/sequel_spec.rb",
@@ -54,7 +52,6 @@ Gem::Specification.new do |s|
      "spec/spec_controller.rb",
      "spec/spec_helper.rb",
      "spec/spec_model.rb",
-     "spec/test.db"
   ]
   s.homepage = %q{http://github.com/merb/merb_sequel}
   s.rdoc_options = ["--charset=UTF-8"]
